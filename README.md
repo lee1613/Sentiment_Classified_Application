@@ -29,13 +29,13 @@ All necessary model files (`.pte`) and vocabulary files (`vocab.txt`) are alread
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/lee1613/Android-LLM-Deployment
-    cd Android-LLM-Deployment
+    git clone https://github.com/lee1613/Sentiment_Classified_Application
+    cd Sentiment_Classified_Application
     ```
 
 2.  **Open in Android Studio**
     -   Open Android Studio.
-    -   Select "Open" and navigate to the cloned `Android-LLM-Deployment` folder.
+    -   Select "Open" and navigate to the cloned `Sentiment_Classified_Application` folder.
 
 3.  **Build and Run**
     -   Let Gradle sync all the project dependencies.
